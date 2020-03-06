@@ -24,3 +24,12 @@
 16 “You shall not give false testimony against your neighbor. 
 
 17 “You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbor.”
+
+
+# Laws Concerning Witnesses
+## Deuteronomy 19:15-21 [https://www.biblegateway.com/passage/?search=Deuteronomy+19%3A15-21&version=NIV]
+
+"15 One witness is not enough to convict anyone accused of any crime or offense they may have committed. A matter must be established by the testimony of two or three witnesses.
+
+16 If a malicious witness takes the stand to accuse someone of a crime, 17 the two people involved in the dispute must stand in the presence of the Lord before the priests and the judges who are in office at the time. 18 The judges must make a thorough investigation, and if the witness proves to be a liar, giving false testimony against a fellow Israelite, 19 then do to the false witness as that witness intended to do to the other party. You must purge the evil from among you. 20 The rest of the people will hear of this and be afraid, and never again will such an evil thing be done among you. 21 Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+
